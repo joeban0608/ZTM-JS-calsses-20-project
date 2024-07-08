@@ -1,4 +1,4 @@
-# 第八章 animated-navigation
+# 第 9 章： Navigation Nation
 This is pratice from ZTM classes: [javascript-web-projects-to-build-your-portfolio-resume-第九章](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/?couponCode=ACCAGE0923)
 > [click to watch the demo](https://joeban0608.github.io/ZTM-animated-navigation/)
 ---
